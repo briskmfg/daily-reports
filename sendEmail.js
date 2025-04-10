@@ -6,8 +6,8 @@ require('dotenv').config();
 async function sendEmail(filePath, filename) {
   // Create a transporter object
   const transporter = nodemailer.createTransport({
-    host: "smtp.zoho.com",
-    port: 465,
+    host: process.env.EMAIL_HOST,
+    port: process.env.EMAIL_PORT,
     secure: true, // Use `true` for port 465, `false` for all other ports
     auth: {
       user: process.env.EMAIL_USER,
