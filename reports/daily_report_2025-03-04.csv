@@ -1,0 +1,37 @@
+Order Number,Purchase Order Number,Customer Name,Order Status,Packing Slip Date,Order Date,Invoice Date,Ship Date,Net Amount,Products,Total Qty
+2524156,PO8538,GAZEAUAIR,Under Process,,Tue Mar 04 2025 13:46:55 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),243.85,"AMI-75AV-2PCS, AMI-75AH-1PC, MISC-1PC",4
+2524157,0513838,BOONE,Under Process,,Tue Mar 04 2025 14:20:35 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),837.56,"502 CRD-1PC, AMI-75AV-1PC",2
+2524068,PO#8498,GAZEAUAIR,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Tue Feb 25 2025 14:43:32 GMT-0500 (Eastern Standard Time),,Mon Mar 03 2025 00:00:00 GMT-0500 (Eastern Standard Time),293.45,"AMI-75AV-6PCS, MISC-1PC",7
+2524117,13568-23118,"Vddo Inc.,",Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Thu Feb 27 2025 15:50:19 GMT-0500 (Eastern Standard Time),,Thu Mar 06 2025 00:00:00 GMT-0500 (Eastern Standard Time),161.14,AMI-75AH-S-1PC,1
+2524160,0235888,Descair,Under Process,,Tue Mar 04 2025 15:43:58 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),344.37,"AMI-75AH-1PC, AMI-75BV-1PC",2
+2524151,7011025-00,Noble Corporation,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Mon Mar 03 2025 19:14:05 GMT-0500 (Eastern Standard Time),,Fri Mar 07 2025 00:00:00 GMT-0500 (Eastern Standard Time),51.42,AH-DY-1PC,1
+2524159,2019366-00,Noble,Under Process,,Tue Mar 04 2025 15:21:01 GMT-0500 (Eastern Standard Time),,Fri Mar 07 2025 00:00:00 GMT-0500 (Eastern Standard Time),128.82,AH-DY-1PC,1
+2524155,DAVISVILLE-6,MULTIWIDE MECHANICAL CONTRACTOR LTD,Under Process,,Tue Mar 04 2025 13:28:45 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),129,ASR-C-2PCS,2
+2524162,720164,HTS ENGINEERING LTD,Under Process,,Tue Mar 04 2025 18:23:02 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),316.4,AMI-75AV-5PCS,5
+2524163,PHS2500186R4,E-H Price Ltd,Under Process,,Tue Mar 04 2025 19:02:51 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),146.9,BMI-LV-2-1PC,1
+2524164,P000075585,Sinclair Supply Ltd.,Under Process,,Tue Mar 04 2025 19:06:30 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),47.91,AMI-75BH-1PC,1
+2524167,QP64272999,Wolseley Canada Inc,Under Process,,Tue Mar 04 2025 19:42:07 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),974.63,AMI-75CRH-1PC,1
+2524165,S349159A,PACAIRE,Under Process,,Tue Mar 04 2025 19:10:58 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),136.75,AMI-85DH-1PC,1
+2524166,1224410,Bardon Supplies,Under Process,,Tue Mar 04 2025 19:36:55 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),186.82,"AMI-75BH-1PC, 502 CRD-2PCS",3
+2524169,QPH4273000,Wolseley Canada Inc,Under Process,,Tue Mar 04 2025 19:56:19 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),3964.09,"AMI-75CRH-1PC, 502 CRD-2PCS",3
+2524171,S349178A,PACAIRE,Under Process,,Tue Mar 04 2025 20:12:33 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),22926.72,"BMI-V-FSS-101-4PCS, BMI-V-FSS-101-FA-1PC",5
+2524168,QP54272997,Wolseley Canada Inc,Under Process,,Tue Mar 04 2025 19:49:35 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),126.33,"AMI-75AV-1PC, AMI-75CRH-1PC",2
+2524172,PO2025-897,Ele-Mech Canada Inc.,Under Process,,Tue Mar 04 2025 21:08:03 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),314.99,CD300S-2PCS,2
+2524112,9161540,Descair,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Thu Feb 27 2025 14:05:48 GMT-0500 (Eastern Standard Time),,Thu Mar 06 2025 00:00:00 GMT-0500 (Eastern Standard Time),63.14,AMI-75BH-1PC,1
+2524099,353235,Metal Works,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Wed Feb 26 2025 20:34:34 GMT-0500 (Eastern Standard Time),,Wed Mar 05 2025 00:00:00 GMT-0500 (Eastern Standard Time),339.16,"AMI-75AH-2PCS, AMI-75CRH-1PC",3
+2524154,2019360-00,Noble Corporation,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Mon Mar 03 2025 20:09:01 GMT-0500 (Eastern Standard Time),,Fri Mar 07 2025 00:00:00 GMT-0500 (Eastern Standard Time),211.54,AMI-75AH-1PC,1
+2524133,2025021401-3,DISCONST.COM INC,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Fri Feb 28 2025 14:38:09 GMT-0500 (Eastern Standard Time),,Fri Mar 07 2025 00:00:00 GMT-0500 (Eastern Standard Time),192.59,"AMI-75CRV-1PC, AMI-75AV-4PCS",5
+2524126,P000075385,Sinclair Supply Ltd.,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Thu Feb 27 2025 18:48:35 GMT-0500 (Eastern Standard Time),,Thu Mar 06 2025 00:00:00 GMT-0500 (Eastern Standard Time),51.96,AMI-85DH-1PC,1
+2524148,P000075493,Sinclair Supply Ltd.,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Mon Mar 03 2025 17:30:21 GMT-0500 (Eastern Standard Time),,Fri Mar 07 2025 00:00:00 GMT-0500 (Eastern Standard Time),61.49,501 CRD-1PC,1
+2524087,353228,Metal Works,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Wed Feb 26 2025 15:34:33 GMT-0500 (Eastern Standard Time),,Wed Mar 05 2025 00:00:00 GMT-0500 (Eastern Standard Time),94.66,AMI-75AH-2PCS,2
+2524102,P000075306,Sinclair Supply Ltd.,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Wed Feb 26 2025 20:51:28 GMT-0500 (Eastern Standard Time),,Wed Mar 05 2025 00:00:00 GMT-0500 (Eastern Standard Time),35.22,AMI-75AV-1PC,1
+2524174,353353,METAL WORKS HVAC,Under Process,,Tue Mar 04 2025 21:14:25 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),191.76,CD300S-1PC,1
+2524173,353352,METAL WORKS HVAC,Under Process,,Tue Mar 04 2025 21:12:35 GMT-0500 (Eastern Standard Time),,,309.73,"BMI-LV-2-2PCS, BDD-DM-1PC",3
+2524175,353356,METAL WORKS HVAC,Under Process,,Tue Mar 04 2025 21:16:20 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),197.75,BDD-DM-1PC,1
+2524161,12348,Hvac Depot & Metal Mfg. Inc,Under Process,,Tue Mar 04 2025 16:32:27 GMT-0500 (Eastern Standard Time),,Mon Mar 10 2025 00:00:00 GMT-0400 (Eastern Daylight Time),904,CD300S-1PC,1
+2524091,12321,Hvac Depot & Metal Mfg. Inc,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Wed Feb 26 2025 18:39:02 GMT-0500 (Eastern Standard Time),,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),458.85,"AMI-75CRV-1PC, AMI-75BV-5PCS, AMI-75AV-3PCS",9
+2524094,P000075282,Sinclair Supply Ltd.,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Wed Feb 26 2025 19:13:38 GMT-0500 (Eastern Standard Time),,Wed Mar 05 2025 00:00:00 GMT-0500 (Eastern Standard Time),415.72,,0
+2524137,WOODSTOCK-1,A & M HEATING AND AIR CONDITIONING LTD,Packing Slip,Tue Mar 04 2025 00:00:00 GMT-0500 (Eastern Standard Time),Fri Feb 28 2025 17:35:55 GMT-0500 (Eastern Standard Time),,,3273.61,,0
+
+Total (Packing Slip): $5703.95
+Total (Under Process): $32428.38
